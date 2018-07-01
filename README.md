@@ -1,3 +1,3 @@
 # project-pixel-art-maker-starter-master
-My first respository on GitHub
-I love: food: music: sports:, and :making new friends:.
+udacity final project
+HTML style.css and design.JS file
